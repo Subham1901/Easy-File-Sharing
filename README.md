@@ -8,7 +8,7 @@
 
 
 <h1>Screenshots</h1>
-Home Page
+
 ![Screenshot 2023-04-15 202025](https://github.com/Subham1901/Easy-File-Sharing/assets/79370554/96f9b598-d7dc-4a0d-92f0-46cd4f62cfdb)
 
 
